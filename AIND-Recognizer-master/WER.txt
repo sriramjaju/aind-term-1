@@ -1,0 +1,42 @@
+features_ground SelectorCV in 121.0738174661816 seconds, WER = 0.5337078651685393, Total correct: 83 out of 178
+
+features_ground SelectorBIC in 69.48731589223212 seconds, WER = 0.550561797752809, Total correct: 80 out of 178
+
+features_ground SelectorDIC in 198.21661916579228 seconds, WER = 0.5730337078651685, Total correct: 76 out of 178
+
+features_polar SelectorCV in 134.54510709542865 seconds, WER = 0.5674157303370787, Total correct: 77 out of 178
+
+features_polar SelectorBIC in 78.1365764662878 seconds, WER = 0.5449438202247191, Total correct: 81 out of 178
+
+features_polar SelectorDIC in 215.97334727111684 seconds, WER = 0.5449438202247191, Total correct: 81 out of 178
+
+features_custom SelectorBIC in 72.9070982182966 seconds, WER = 0.5280898876404494, Total correct: 84 out of 178
+
+features_delta SelectorBIC in 74.11991594663232 seconds, WER = 0.6179775280898876, Total correct: 68 out of 178
+
+features_custom SelectorCV in 117.05530627909957 seconds, WER = 0.601123595505618, Total correct: 71 out of 178
+
+-----
+features_custom SelectorBIC in 70.5600650502829 seconds
+
+**** WER = 0.5955056179775281
+Total correct: 72 out of 178
+----
+
+Old:
+
+features_ground SelectorCV in 98.85275604215622 seconds, WER = 0.6067415730337079 Total correct: 70 out of 178
+
+features_ground SelectorBIC in 59.44078418083427 seconds, WER = 0.550561797752809, Total correct: 80 out of 178
+
+features_ground SelectorDIC in 185.1820123823636 seconds, WER = 0.5730337078651685, Total correct: 76 out of 178
+
+features_polar SelectorCV in 110.30391971442896 seconds, WER = 0.5617977528089888, Total correct: 78 out of 178
+
+features_polar SelectorBIC in 72.60439368385323 seconds, WER = 0.5449438202247191, Total correct: 81 out of 178
+
+features_polar SelectorDIC in 206.63772703086306 seconds, WER = 0.5449438202247191, Total correct: 81 out of 178
+
+features_custom SelectorBIC in 70.5600650502829 seconds, WER = 0.5955056179775281, Total correct: 72 out of 178
+
+features_delta SelectorBIC in 84.43289125451884 seconds, WER = 0.6179775280898876, Total correct: 68 out of 178
